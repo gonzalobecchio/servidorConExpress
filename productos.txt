@@ -1,0 +1,1 @@
+[{"title":"Lapicera","price":15,"thumbnail":"https://img.icons8.com/emoji/48/000000/pen-emoji.png","id":1},{"title":"Cuaderno","price":10.5,"thumbnail":"https://img.icons8.com/officel/16/000000/book.png","id":2},{"title":"Mochila","price":200,"thumbnail":"https://img.icons8.com/dusk/64/000000/backpack.png","id":3}]
